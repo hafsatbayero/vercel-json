@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Son On</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Son-On" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(7.000000, 16.000000)" fill="#000000">
+            <polygon id="Triangle" transform="translate(12.000000, 14.000000) rotate(-90.000000) translate(-12.000000, -14.000000) " points="12 2 26 26 -2 26"></polygon>
+            <rect id="Rectangle" x="0" y="6" width="21" height="16" rx="2"></rect>
+        </g>
+        <path d="M40,44 C47.7319865,44 54,37.7319865 54,30 C54,22.2680135 47.7319865,16 40,16" id="Oval" stroke="#000000" stroke-width="4" stroke-linecap="round"></path>
+        <path d="M38,39 C43.5228475,39 48,34.9705627 48,30 C48,25.0294373 43.5228475,21 38,21" id="Oval-Copy" stroke="#000000" stroke-width="4" stroke-linecap="round"></path>
+        <path d="M36,34 C38.209139,34 40,32.209139 40,30 C40,27.790861 38.209139,26 36,26" id="Oval-Copy-2" stroke="#000000" stroke-width="4" stroke-linecap="round"></path>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>poubelle copy 5</title>
+    <desc>Created with Sketch.</desc>
+    <g id="poubelle-copy-5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M7,16 L53,16 C54.1045695,16 55,16.8954305 55,18 L55,42 C55,43.1045695 54.1045695,44 53,44 L38.236068,44 C37.4785239,44 36.7859976,43.5719952 36.4472136,42.8944272 L31.7888544,33.5777088 C31.2948759,32.5897518 30.0935298,32.1893031 29.1055728,32.6832816 C28.718518,32.876809 28.404673,33.190654 28.2111456,33.5777088 L23.5527864,42.8944272 C23.2140024,43.5719952 22.5214761,44 21.763932,44 L7,44 C5.8954305,44 5,43.1045695 5,42 L5,18 C5,16.8954305 5.8954305,16 7,16 Z" id="Rectangle" fill="#000000"></path>
+        <circle id="Oval" fill="#FFFFFF" cx="15.5" cy="30.5" r="6.5"></circle>
+        <circle id="Oval-Copy" fill="#FFFFFF" cx="44.5" cy="30.5" r="6.5"></circle>
+    </g>
+</svg>

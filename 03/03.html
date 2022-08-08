@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Black Blue</title>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, user-scalable=no"
+    />
+    <link type="text/css" rel="stylesheet" href="/03/03.css" />
+  </head>
+  <body>
+    <div class="loading" id="js-loader">
+      <div class="loader"></div>
+      <div>
+        <a><img class="logo" src="/assets/logoOkoni.svg" alt="" /></a>
+      </div>
+    </div>
+    <div id="assets-store"></div>
+    <div id="container"></div>
+    <script src="https://cdn.jsdelivr.net/npm/webxr-polyfill@latest/build/webxr-polyfill.js"></script>
+    <video
+      id="video"
+      loop
+      crossorigin="anonymous"
+      playsinline
+      muted="muted"
+      style="display: none;"
+    >
+      <!-- <source src="textures/MaryOculus.webm" /> -->
+      <source
+        src="https://cdn.glitch.com/762d3724-3c95-41e3-8834-15379d4984be%2FBblue_1.mp4?v=1603448745728"
+      />
+    </video>
+
+    <script type="module" src="/03/03.js"></script>
+  </body>
+</html>
